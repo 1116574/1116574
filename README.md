@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @1116574 - Paweł
-- 🏙️ I am from Warsaw, Poland
-- 👀 I program with public open data, back-end stuff, mainly
-- 🪐 I like to check out weird/new protocoles, like [gemini](https://en.wikipedia.org/wiki/Gemini_(protocol))
-- ...and learn about old but still useful standards, like ID3 or Atom/RSS
-- 🌱 I’m currently learning about Unicode, encodings, and trying to get more into Docker and Rust
+- I’m @1116574 - Paweł
+- I am from Warsaw, Poland
+- My current work is in sys adm, L1/L2, and some legacy buisness applications programming in PHP
+- Privatly I like to dabble with open data, mainly with python
 
 <!---
 1116574/1116574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
